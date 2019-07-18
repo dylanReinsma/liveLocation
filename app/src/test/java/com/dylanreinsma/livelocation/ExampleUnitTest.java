@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.dylanreinsma.livelocation;
 
 import org.junit.Test;
 
